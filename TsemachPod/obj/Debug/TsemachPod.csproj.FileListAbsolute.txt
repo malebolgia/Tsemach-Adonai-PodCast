@@ -1,0 +1,17 @@
+N:\Visual Studio Projects\TsemachPod\TsemachPod\bin\Debug\TsemachPod.exe
+N:\Visual Studio Projects\TsemachPod\TsemachPod\bin\Debug\TsemachPod.pdb
+N:\Visual Studio Projects\TsemachPod\TsemachPod\obj\Debug\ResolveAssemblyReference.cache
+N:\Visual Studio Projects\TsemachPod\TsemachPod\obj\Debug\TsemachPod.Form1.resources
+N:\Visual Studio Projects\TsemachPod\TsemachPod\obj\Debug\TsemachPod.Properties.Resources.resources
+N:\Visual Studio Projects\TsemachPod\TsemachPod\obj\Debug\TsemachPod.csproj.GenerateResource.Cache
+N:\Visual Studio Projects\TsemachPod\TsemachPod\obj\Debug\TsemachPod.exe
+N:\Visual Studio Projects\TsemachPod\TsemachPod\obj\Debug\TsemachPod.pdb
+I:\Visual Studio Projects\TsemachPod\TsemachPod\obj\Debug\TsemachPod.exe
+I:\Visual Studio Projects\TsemachPod\TsemachPod\obj\Debug\TsemachPod.pdb
+I:\Visual Studio Projects\TsemachPod\TsemachPod\bin\Debug\TsemachPod.exe
+I:\Visual Studio Projects\TsemachPod\TsemachPod\bin\Debug\TsemachPod.pdb
+I:\Visual Studio Projects\TsemachPod\TsemachPod\obj\Debug\ResolveAssemblyReference.cache
+I:\Visual Studio Projects\TsemachPod\TsemachPod\obj\Debug\TsemachPod.Form1.resources
+I:\Visual Studio Projects\TsemachPod\TsemachPod\obj\Debug\TsemachPod.Properties.Resources.resources
+I:\Visual Studio Projects\TsemachPod\TsemachPod\obj\Debug\ResGen.read.1.tlog
+I:\Visual Studio Projects\TsemachPod\TsemachPod\obj\Debug\ResGen.write.1.tlog

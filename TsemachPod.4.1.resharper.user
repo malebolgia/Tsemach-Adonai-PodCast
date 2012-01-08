@@ -1,0 +1,168 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/d:Properties/f:AssemblyInfo.cs" caret="660" scrollPosition="0|0" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:PodCollection.cs" caret="824" scrollPosition="0|0" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:audio.xml" caret="704" scrollPosition="0|0" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Pod.cs" caret="609" scrollPosition="0|0" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.Designer.cs" caret="0" scrollPosition="0|0" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Program.cs" caret="333" scrollPosition="0|0" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Savior.cs" caret="0" scrollPosition="0|94" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Settings.cs" caret="340" scrollPosition="0|0" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="18627" scrollPosition="0|455" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="17538" scrollPosition="0|435" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="19397" scrollPosition="0|447" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="13651" scrollPosition="0|330" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="16430" scrollPosition="0|384" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Settings.cs" caret="452" scrollPosition="0|0" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="658" scrollPosition="0|15" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="4404" scrollPosition="0|96" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="4404" scrollPosition="0|96" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="20806" scrollPosition="0|469" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.Designer.cs" caret="0" scrollPosition="0|0" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="21230" scrollPosition="0|491" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="22269" scrollPosition="0|528" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="20688" scrollPosition="0|464" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="1306" scrollPosition="0|23" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="21800" scrollPosition="0|520" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Savior.cs" caret="0" scrollPosition="0|112" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="787" scrollPosition="0|13" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="1645" scrollPosition="0|31" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="1206" scrollPosition="0|22" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Settings.cs" caret="359" scrollPosition="0|0" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Settings.cs" caret="340" scrollPosition="0|0" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="20013" scrollPosition="0|436" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="22894" scrollPosition="0|576" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="23044" scrollPosition="0|585" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="1652" scrollPosition="0|42" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="1959" scrollPosition="0|42" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="23187" scrollPosition="0|578" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="22512" scrollPosition="0|561" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="18548" scrollPosition="0|457" />
+      <File id="175265E1-B708-412F-B20D-25864A5F50B7/f:Form1.cs" caret="18358" scrollPosition="0|463" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Pod" priority="0" />
+      <Item value="pod" priority="0" />
+      <Item value="podTitle" priority="0" />
+      <Item value="podDescrption" priority="0" />
+      <Item value="podPublish" priority="0" />
+      <Item value="podEnclosure" priority="0" />
+      <Item value="podDescriptionAdd" priority="2" />
+      <Item value="XmlAttribute" priority="0" />
+      <Item value="xmldoc" priority="1" />
+      <Item value="newtype" priority="0" />
+      <Item value="MessageBox" priority="1" />
+      <Item value="private" priority="3" />
+      <Item value="void" priority="2" />
+      <Item value="XMLSettings" priority="0" />
+      <Item value="_PodCollection" priority="0" />
+      <Item value="index" priority="0" />
+      <Item value="podTitleAdd" priority="1" />
+      <Item value="String" priority="0" />
+      <Item value="podPublishDateAdd" priority="0" />
+      <Item value="podEnclosureAdd" priority="0" />
+      <Item value="Path" priority="0" />
+      <Item value="sermonDate" priority="0" />
+      <Item value="sermonNumber" priority="0" />
+      <Item value="Count" priority="0" />
+      <Item value="i" priority="0" />
+      <Item value="string" priority="0" />
+      <Item value="settings" priority="4" />
+      <Item value="public" priority="0" />
+      <Item value="txtUsername" priority="0" />
+      <Item value="Settings" priority="0" />
+      <Item value="txtHost" priority="0" />
+      <Item value="txtPassword" priority="0" />
+      <Item value="txtDir" priority="0" />
+      <Item value="Form1" priority="0" />
+      <Item value="this" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TsemachPod.Pod">
+      <Item value="Title" priority="2" />
+      <Item value="Description" priority="1" />
+      <Item value="PubDate" priority="1" />
+      <Item value="Enclosure" priority="1" />
+      <Item value="Link" priority="1" />
+      <Item value="DescriptionMain" priority="1" />
+      <Item value="Language" priority="1" />
+      <Item value="CopyRight" priority="1" />
+      <Item value="LastBuildDate" priority="2" />
+      <Item value="Generator" priority="1" />
+      <Item value="WebMaster" priority="1" />
+      <Item value="TitleMain" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlElement">
+      <Item value="Attributes" priority="0" />
+      <Item value="GetAttribute" priority="0" />
+      <Item value="GetElementsByTagName" priority="0" />
+      <Item value="LastChild" priority="0" />
+      <Item value="SelectNodes" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="18" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString" priority="5" />
+      <Item value="Split" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="CreateAttribute" priority="0" />
+      <Item value="GetElementsByTagName" priority="0" />
+      <Item value="LoadXml" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttribute">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TsemachPod.PodCollection">
+      <Item value="GetPodSettings" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="VolumeSeparatorChar" priority="0" />
+      <Item value="PathSeparator" priority="0" />
+      <Item value="GetFileName" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TsemachPod.Settings">
+      <Item value="Username" priority="0" />
+      <Item value="Host" priority="0" />
+      <Item value="Password" priority="0" />
+      <Item value="Directory" priority="0" />
+      <Item value="XMLPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TsemachPod.Form1">
+      <Item value="localXMLPath" priority="0" />
+      <Item value="Read" priority="1" />
+      <Item value="Save" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
